@@ -24,14 +24,3 @@ terraform {
     region = "us-east-1"
   }
 }
-You can also update the key name to whatever you want your state file to be named.
-
-Plugins Required
-Workspace Cleanup Plugin
-Credentials Binding Plugin
-AnsiColor Plugin
-GitHub Plugin
-Pipeline Plugin
-CloudBees AWS Credentials Plugin
-Questions?
-Open an issue.
