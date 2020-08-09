@@ -19,7 +19,7 @@ You will need to create a bucket and reference the bucket name in the following 
 
 terraform {
   backend "s3" {
-    bucket = "terraform-bucket-alex"
+    bucket = "maliano"
     key    = "terraform.tfstate"
     region = "us-east-1"
   }
